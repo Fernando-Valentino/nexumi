@@ -18,3 +18,6 @@ Route::get('/konsumen', function () {
 Route::get('/pages-kontak', function () {
     return view('pages.kontak');
 });
+Route::get('/pages-paket', function () {
+    return view('pages.paket');
+});
