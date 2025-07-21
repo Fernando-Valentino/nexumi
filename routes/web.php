@@ -15,3 +15,6 @@ Route::get('/umkm', function () {
 Route::get('/konsumen', function () {
     return view('pages.dashboard.konsumen');
 });
+Route::get('/pages-kontak', function () {
+    return view('pages.kontak');
+});
