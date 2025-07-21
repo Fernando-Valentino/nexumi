@@ -10,7 +10,7 @@
             <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
                 <div class="row gy-5 justify-content-between">
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                        <h2><span>Welcome to </span><span class="accent">Impact</span></h2>
+                        <h2><span>Welcome to </span><span class="accent">NEXUMI</span></h2>
                         <p>Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque
                             eum
                             quaerat.</p>
@@ -876,10 +876,10 @@
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="content px-xl-5">
-                            <h3><span>Frequently Asked </span><strong>Questions</strong></h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                            <h3><strong>Pertanyaan </strong><span> yang sering Digunakan</span></h3>
+                            <p><strong>
+                                NEXT UMKM INDONESIA
+        </strong>
                             </p>
                         </div>
                     </div>
@@ -888,65 +888,69 @@
 
                         <div class="faq-container">
                             <div class="faq-item faq-active">
-                                <h3><span class="num">1.</span> <span>Non consectetur a erat nam at lectus urna
-                                        duis?</span></h3>
+                                <h3><span class="num">1.</span> <span>1. Apa itu Nexumi? </span></h3>
                                 <div class="faq-content">
-                                    <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet
-                                        non
-                                        curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor
-                                        purus
-                                        non.</p>
+                                    <p>Nexumi (Next UMKM Indonesia) adalah platform iklan digital yang dirancang khusus untuk membantu pelaku UMKM di Cirebon mempromosikan produk atau jasanya secara mudah, 
+                                        terjangkau, dan efektif melalui fitur-fitur lokal dan sederhana.
+                                        </p>
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
 
                             <div class="faq-item">
-                                <h3><span class="num">2.</span> <span>Feugiat scelerisque varius morbi enim nunc
-                                        faucibus a
-                                        pellentesque?</span></h3>
+                                <h3><span class="num">2.</span> <span> Siapa saja yang bisa menggunakan Nexumi?</span></h3>
                                 <div class="faq-content">
-                                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum
-                                        velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend
-                                        donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
-                                        cursus turpis massa tincidunt dui.</p>
+                                    <p>Selain pelaku UMKM, Nexumi juga dapat digunakan oleh:.
+                                        <br>
+                                    
+                                        <br>*Komunitas kreatif lokal</br>
+                                        <br>*Usaha rintisan (startup)</br>
+                                        <br>*Instansi pendidikan atau sosial yang ingin mempromosikan kegiatan secara digital</br>
+                                    
+                                    </p>
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
 
                             <div class="faq-item">
-                                <h3><span class="num">3.</span> <span>Dolor sit amet consectetur adipiscing elit
-                                        pellentesque?</span></h3>
+                                <h3><span class="num">3.</span> <span>Mengapa UMKM di Cirebon memerlukan Nexumi?</span></h3>
                                 <div class="faq-content">
-                                    <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus
-                                        pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit.
-                                        Rutrum
-                                        tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna
-                                        molestie at elementum eu facilisis sed odio morbi quis</p>
+                                    <p>Karena banyak UMKM kesulitan dalam:
+                                        <br>
+                                    
+                                        <br>*Mengatur iklan digital berbayar (Google Ads, Facebook Ads)</br>
+                                        <br>*Menentukan target audiens</br>
+                                        <br>*Mengelola anggaran dan metode pembayaran</br>
+                                        <br>*Melacak efektivitas kampanye secara real-time</br>
+                                    </p>
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
 
                             <div class="faq-item">
-                                <h3><span class="num">4.</span> <span>Ac odio tempor orci dapibus. Aliquam eleifend mi
-                                        in
-                                        nulla?</span></h3>
+                                <h3><span class="num">4.</span> <span>Apa keunggulan Nexumi dibanding platform iklan konvensional?</span></h3>
                                 <div class="faq-content">
-                                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum
-                                        velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend
-                                        donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
-                                        cursus turpis massa tincidunt dui.</p>
+                                    <p>
+                                        <br>*Paket iklan low-cost (mulai Rp100.000 per hari)</br>
+                                        <br>*Antarmuka sederhana dan berbahasa Indonesia</br>
+                                        <br>*Template iklan siap pakai</br>
+                                        <br>*Teknologi geo-targeting untuk pasar lokal</br>
+                                        <br>*Dashboard performa real-time</br>
+                                    </p>
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
 
                             <div class="faq-item">
-                                <h3><span class="num">5.</span> <span>Tempus quam pellentesque nec nam aliquam sem et
-                                        tortor consequat?</span></h3>
+                                <h3><span class="num">5.</span> <span>Bagaimana Nexumi membantu dalam membuat iklan?</span></h3>
                                 <div class="faq-content">
-                                    <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in
-                                        est
-                                        ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit
-                                        adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                                    <p>Nexumi menyediakan:
+                                    
+                                        <br>*Template iklan siap pakai (untuk produk kuliner, kerajinan, fashion)</br>
+                                        <br>*Tutorial visual step-by-step</br>
+                                        <br>*Panduan penentuan anggaran dan desain konten</br>
+                                    
+                                    </p>
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
