@@ -38,42 +38,39 @@ php artisan db:seed
 
 # Jalankan server Laravel
 php artisan serve
-
+-----------------------------------------------
 🔃 Workflow Git (Push & Pull)
 1️⃣ Membuat dan Pindah ke Branch Baru (Opsional)
-bash
-Salin
-Edit
-# Buat dan langsung pindah ke branch baru
+# Buat branch baru dan langsung pindah ke sana
 git checkout -b nama-branch
+-----------------------------------------------
 2️⃣ Menambahkan dan Push Perubahan ke Branch
-bash
-Salin
-Edit
-# Tambahkan semua perubahan
+# Tambahkan semua perubahan ke staging
 git add .
 
-# Commit perubahan dengan pesan yang jelas
+# Commit perubahan dengan pesan yang deskriptif
 git commit -m "Deskripsi perubahan"
 
-# Push ke branch yang sesuai di GitHub
+# Push branch ke remote repository
 git push origin nama-branch
+-----------------------------------------------
 3️⃣ Pull (Menarik Update Terbaru dari Branch)
 bash
 Salin
 Edit
-# Pastikan kamu berada di branch yang sesuai
+# Pindah ke branch yang ingin di-update
 git checkout nama-branch
 
-# Tarik perubahan terbaru dari GitHub
+# Tarik update terbaru dari GitHub
 git pull origin nama-branch
-4️⃣ Membuat Pull Request (PR) ke Branch Utama
+-----------------------------------------------
+4️⃣ Membuat Pull Request (PR) ke Branch Utama (main atau master)
 Buka repository di GitHub.
 
-Akan muncul notifikasi: "Compare & pull request" → klik tombol tersebut.
+Setelah melakukan push ke branch, akan muncul notifikasi: "Compare & pull request" → klik tombol tersebut.
 
-Isi deskripsi pull request (penjelasan perubahan).
+Isi judul dan deskripsi pull request (penjelasan perubahan).
 
-Klik "Create Pull Request".
+Klik tombol "Create Pull Request".
 
-Setelah direview dan disetujui, klik "Merge Pull Request" ke branch utama (misalnya master atau main).
+Setelah direview, klik "Merge Pull Request" untuk menggabungkan ke main/master.
